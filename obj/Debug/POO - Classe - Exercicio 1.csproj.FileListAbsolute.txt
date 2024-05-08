@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\bin\Debug\POO - Classe - Exercicio 1.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\bin\Debug\POO - Classe - Exercicio 1.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\bin\Debug\POO - Classe - Exercicio 1.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\obj\Debug\POO - Classe - Exercicio 1.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\obj\Debug\POO - Classe - Exercicio 1.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\obj\Debug\POO - Classe - Exercicio 1.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\POO - Classe - Exercicio 1\POO - Classe - Exercicio 1\obj\Debug\POO - Classe - Exercicio 1.pdb
